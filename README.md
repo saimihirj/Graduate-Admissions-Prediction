@@ -1,4 +1,5 @@
-#### Dataset: Graduate Admissions Dataset
+# Graduate Admissions Prediction
+##### Dataset: Graduate Admissions Dataset
 ##### Source: Kaggle
 ##### Metrics: 500 rows, 9 columns
 ##### About: The graduate studies dataset is a dataset which describes the probability of selections for Indian students dependent on the following parameters below.
