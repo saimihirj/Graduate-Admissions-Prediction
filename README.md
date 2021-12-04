@@ -1,4 +1,5 @@
 # Graduate Admissions Prediction
+
 ##### Dataset: Graduate Admissions Dataset
 ##### Source: Kaggle
 ##### Metrics: 500 rows, 9 columns
@@ -13,3 +14,5 @@
     7. Research Experience (either 0 or 1)
     8. Chance of Admittance (ranging from 0 to 1)
 ##### This dataset was built with the purpose of helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their chances for a particular university. This dataset is inspired by the UCLA Graduate Dataset from Kaggle.
+
+![image](https://user-images.githubusercontent.com/56193559/144716931-b45284e8-def0-4196-9764-114ea42352f0.png)
