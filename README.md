@@ -16,3 +16,6 @@
 ##### This dataset was built with the purpose of helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their chances for a particular university. This dataset is inspired by the UCLA Graduate Dataset from Kaggle.
 
 ![image](https://user-images.githubusercontent.com/56193559/144716931-b45284e8-def0-4196-9764-114ea42352f0.png)
+
+#### Canva Visualizer Demo
+![Canva-Link](https://www.canva.com/design/DAEyMz6AsJM/-VYHU3yP58Ux7aecANz1eA/view?utm_content=DAEyMz6AsJM&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
